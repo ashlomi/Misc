@@ -1,4 +1,4 @@
-Date,Application Name,Environment,Plugin,Number of execution ,
+Date,ApplicationName,Environment,Plugin,NumberOfExecution ,
 1/01/2021,App1,UAT,TAR,1,
 30/01/2021,App2,Prod,SNOW,1,
 31/01/2021,App4,UAT,TAR,1,
